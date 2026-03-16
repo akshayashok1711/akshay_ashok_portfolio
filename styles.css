@@ -1,0 +1,85 @@
+body {
+  background-color: #eef6ff;
+}
+
+p {
+  font-size: 1.3rem;
+}
+
+li {
+  font-size: 1.25rem;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.experience-page {
+  max-width: 1500px;
+  margin: 40px auto;
+}
+
+.experience-page iframe,
+.experience-page embed {
+  width: 100%;
+  height: 1100px;
+  display: block;
+  border: none;
+}
+
+.bi {
+  color: #2c5cc5;
+  transition: 0.2s;
+}
+
+.bi:hover {
+  color: #1a1a1a;
+  transform: scale(1.08);
+}
+
+.contact-page h1 {
+  font-size: 3.6rem;
+}
+
+.contact-page p {
+  font-size: 1.6rem;
+  max-width: 750px;
+  margin: auto;
+}
+
+.contact-page .bi {
+  font-size: 3.5rem;
+}
+
+
+/* Project cards */
+.columns .column > * {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  height: 100%;
+}
+
+/* Hover effect */
+.columns .column > *:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+}
+
+/* Title styling */
+.columns h3 {
+  font-size: 1.5rem;
+  margin-bottom: 12px;
+}
+
+.projects-grid .column {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.projects-grid .columns {
+  margin-left: -12px;
+  margin-right: -12px;
+}

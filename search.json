@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "More About Me",
+    "section": "",
+    "text": "Born into an Indian household, growing up in Singapore and Dubai, and studying in diverse, multi-cultural schools, I have had the fortune of being exposed to a wide range of cultures, perspectives, and experiences from an early age. These experiences have shaped my curiosity about how different people, systems, and ideas interact, and have influenced my interest in studying people, economics, and decision-making.\nComing to UCLA, I knew I wanted to study business and economics. Upon coming here, I realized that many of the classes I was most passionate about involved using numbers and data to arrive at solutions to problems, whether that be for businesses, people, markets, governments, or other large-scale systems.\nEnrolling in stats classes and ultimately the major, I found that I thoroughly enjoy classes and projects where I can take large pieces of data, break it down into relevant pieces, find insights and useful trends in the data, potentially forecast how the data will change in the future, and ultimately provide a data-driven solution to a problem.\nAfter graduation, I would love to work in a variety of industries, from consulting to product management and data analytics. All of these will enable me to do what I am passionate about and can put my skills to good use, which is using data to problem-solve. These roles also excite me as they will allow me to collaborate with like-minded individuals who can teach me a lot, and also work in environments where I am trusted to put my skills to use while also receiving critical feedback so I can grow.\nAway from my professional ambitions, I am extremely passionate about sports and will play, watch, and discuss it for hours on end. Coming from an international background, I love to travel and try new foods from different cultures. I also enjoy movies a lot and am always looking for something new to watch."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Akshay Ashok",
+    "section": "",
+    "text": "My name is Akshay Ashok! I am a student at UCLA pursuing a double major in Statistics and Data Science and Business Economics, set to graduate in June 2026.\nMy academic interests include:\n\nData analysis\nStatistical modeling\nConsulting\nProduct management\n\nThis website highlights my background, experience, and projects."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in Touch",
+    "section": "",
+    "text": "Get in Touch\nThank you for taking the time to learn more about me. Please feel free to connect with me — I would be happy to speak further."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Selected Projects",
+    "section": "",
+    "text": "Obesity Causal Analysis\nIn this project, I was given data regarding obesity statistics and numerous factors related to obesity. I was responsible for cleaning and filtering the dataset by removing empty values and redundant variables, and then identifying the most prominent causes of obesity based on statistical analysis and regression modeling, looking at variables like physical activity, dietary patterns, and demographic characteristics.\nTools: R, Data Cleaning, Regression Modelling\n\n\n\nCrime Pattern Analysis\nIn this project, my group and I analyzed LAPD crime data to examine whether COVID affected crime patterns in Los Angeles. We filtered the dataset to focus on 2020–2023 (defining COVID as 2020–2021 and post-COVID as 2022–2023) and used chi-squared testing and regression modeling to evaluate whether the shift in crime post-COVID was purely numbers based or reflective of a larger structural change.\nTools: R, Hypothesis Testing, Regression Modeling\n\n\n\nHousing & Uber Study\nIn this project, I built predictive models to estimate housing prices and Uber fares using historical datasets. I trained and evaluated machine learning models, including linear regression and XGBoost, applying cross-validation and hyperparameter tuning to improve predictive accuracy. I also analyzed feature importance to understand which variables contributed most to the models’ predictions.\nTools: Python, XGBoost, Regression Modeling"
+  }
+]

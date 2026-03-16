@@ -1,0 +1,23 @@
+---
+title: ""
+---
+
+<div class="contact-page" style="text-align:center; margin-top:100px;">
+
+# Get in Touch
+
+Thank you for taking the time to learn more about me. Please feel free to connect with me — I would be happy to speak further.
+
+<div style="margin-top:40px; display:flex; justify-content:center; gap:60px;">
+
+<a href="mailto:akshay.ashok1711@gmail.com">
+<i class="bi bi-envelope-fill"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/akshay-ashok--/" target="_blank">
+<i class="bi bi-linkedin"></i>
+</a>
+
+</div>
+
+</div>

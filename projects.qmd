@@ -1,0 +1,42 @@
+---
+title: "Selected Projects"
+---
+
+
+<div class="projects-grid">
+
+::: {.columns}
+
+::: {.column width="33%"}
+### Obesity Causal Analysis
+
+In this project, I was given data regarding obesity statistics and numerous factors related to obesity. I was responsible for cleaning and filtering the dataset by removing empty values and redundant variables, and then identifying the most prominent causes of obesity based on statistical analysis and regression modeling, looking at variables like physical activity, dietary patterns, and demographic characteristics.
+
+**Tools:** R, Data Cleaning, Regression Modelling
+
+
+:::
+
+::: {.column width="33%"}
+### Crime Pattern Analysis
+
+In this project, my group and I analyzed LAPD crime data to examine whether COVID affected crime patterns in Los Angeles. We filtered the dataset to focus on 2020–2023 (defining COVID as 2020–2021 and post-COVID as 2022–2023) and used chi-squared testing and regression modeling to evaluate whether the shift in crime post-COVID was purely numbers based or reflective of a larger structural change.
+
+**Tools:** R, Hypothesis Testing, Regression Modeling
+
+
+:::
+
+::: {.column width="33%"}
+### Housing & Uber Study
+
+In this project, I built predictive models to estimate housing prices and Uber fares using historical datasets. I trained and evaluated machine learning models, including linear regression and XGBoost, applying cross-validation and hyperparameter tuning to improve predictive accuracy. I also analyzed feature importance to understand which variables contributed most to the models’ predictions.
+
+**Tools:** Python, XGBoost, Regression Modeling
+ 
+
+:::
+
+:::
+
+</div>

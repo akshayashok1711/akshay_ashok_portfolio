@@ -1,0 +1,26 @@
+---
+title: ""
+---
+
+<div style="display:flex; align-items:flex-start; gap:40px;">
+
+<div style="flex:2;">
+
+My name is Akshay Ashok! I am a student at **UCLA** pursuing a double major in **Statistics and Data Science** and **Business Economics**, set to graduate in **June 2026**.
+
+My academic interests include:
+
+- Data analysis
+- Statistical modeling
+- Consulting
+- Product management
+
+This website highlights my background, experience, and projects.
+
+</div>
+
+<div style="flex:1;">
+<img src="headshot.jpg" style="width:320px; border-radius:10px;">
+</div>
+
+</div>

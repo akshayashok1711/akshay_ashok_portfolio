@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Akshay Ashok"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: experience.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact
+        
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: false
+    page-layout: full
+
+editor: visual
